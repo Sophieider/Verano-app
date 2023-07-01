@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Verano o no</title>
+</head>
+<body>
+  <h1>¿Es verano?</h1>
+  <p id="resultado"></p>
+
+  <script src="app.js"></script>
+</body>
+</html>
